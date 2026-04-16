@@ -1,0 +1,7 @@
+# name|apart_num|comfort|pers_num|price|balcony|ac|minibar
+Kirin hotel|112|3|2|1200|0|0|0
+KORD hotel|23|3|5|2300|0|0|0
+Venture hotel|177|2|2|3600|0|0|0
+VICTORIA hotel|456|2|2|4568|1|0|0
+PANZERCAT hotel|1488|2|2|6666|0|1|1
+Armen hotel|265|4|2|15600|1|1|1

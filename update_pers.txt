@@ -1,0 +1,3 @@
+VICTORIA hotel|4
+Kirin hotel|3
+Armen hotel|5
